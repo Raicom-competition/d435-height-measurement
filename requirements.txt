@@ -1,0 +1,4 @@
+PyQt5>=5.15
+numpy>=1.24
+opencv-python>=4.8
+pyrealsense2>=2.54
